@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-App.test",
+      "appliesTo": "src/App.test.js",
+      "type": "launch"
+    }
+  ]
+}
